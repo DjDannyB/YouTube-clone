@@ -1,1 +1,1 @@
-This is a cloned YouTube site made by me.
+This is a cloned YouTube site created by me.
